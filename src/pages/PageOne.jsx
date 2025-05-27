@@ -8,7 +8,7 @@ function PageOne() {
                 {/* Coluna da esquerda */}
                 <Col md={4} className="bg-dark1 text-white d-flex flex-column align-items-center py-4">
                     <img
-                        src="public\img\dev.jpg"
+                        src="/meu-curriculo/img/dev.jpg"
                         alt="Perfil"
                         className="rounded-circle mb-3"
                         style={{ width: 120, height: 120, objectFit: 'cover', border: '4px solid #fff' }}
