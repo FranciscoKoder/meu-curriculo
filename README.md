@@ -16,3 +16,4 @@ If you are developing a production application, we recommend using TypeScript wi
 [Veja online aqui](https://dvlpchico-s.github.io/meu-curriculo/)
 
 ![Preview do projeto](public/img/preview.pdf)
+<embed src="https://dvlpchico-s.github.io/meu-curriculo/img/preview.pdf" width="100%" height="600px" type="application/pdf">
