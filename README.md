@@ -15,4 +15,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 [Veja online aqui](https://dvlpchico-s.github.io/meu-curriculo/)
 
-![Preview do projeto](public/img/preview.png)
+![Preview do projeto](public/img/preview.pdf)
