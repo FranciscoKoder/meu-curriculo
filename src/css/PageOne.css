@@ -1,0 +1,16 @@
+.text-center {
+    width: 20rem;
+}
+
+.tamanho-botoes {
+    width: 20rem;
+}
+
+.bg-dark1 {
+    --bs-bg-opacity: 5;
+    background-color: #494e5f !important;
+}
+
+.linha1 {
+    background-color: #ffe7d4 !important;
+}
