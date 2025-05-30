@@ -33,7 +33,7 @@ function PageOne() {
                         </ul>
                         <h6 className="fw-bold mt-4">CONTATO</h6>
                         <div style={{ fontSize: '0.95rem' }}>
-                            <div>Telefone: (83) 98708-1143</div>
+                            <div>Telefone: (83) 98868-2997</div>
                             <div>Email: vitorfariasdev@gmail.com</div>
                             <div>
                                 <a
