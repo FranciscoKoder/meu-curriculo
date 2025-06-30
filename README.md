@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ![Preview do projeto](public/img/preview.png)
 
-<embed src="https://dvlpchico-s.github.io/meu-curriculo/img/preview.png" width="100%" height="600px" type="application/png">
+<embed src="https://franciscokoder.github.io/meu-curriculo/img/preview.png" width="100%" height="600px" type="application/png">
