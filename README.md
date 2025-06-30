@@ -13,7 +13,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Pré-visualização
 
-<a href="https://dvlpchico-s.github.io/meu-curriculo/" target="_blank">Veja online aqui</a>
+<a href="https://franciscokoder.github.io/meu-curriculo/" target="_blank">Veja online aqui</a>
 
 ![Preview do projeto](public/img/preview.png)
 
