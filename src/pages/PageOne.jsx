@@ -18,7 +18,21 @@ function PageOne() {
                     <div className="w-75">
                         <h6 className="fw-bold mt-4">PERFIL PESSOAL</h6>
                         <p style={{ fontSize: '0.95rem' }}>
-                            Como estudante dedicado, busco constantemente novas experiências e oportunidades para consolidar meus conhecimentos. Sou motivado, pró-ativo e estou sempre em busca de aprendizado. Atualmente curso Ciência da Computação na UEPB e estou aberto a novos desafios profissionais.
+                            Como um estudante apaixonado por
+                            tecnologia e inovação, estou buscando
+                            ativamente uma oportunidade de
+                            Trabalho na área de computação para
+                            aprimorar meus conhecimentos teóricos
+                            e aplicá-los em um ambiente prático.
+                            Sou motivado, ávido por aprender e
+                            comprometido em me desenvolver
+                            como um profissional de destaque
+                            nesse campo em constante evolução.
+                            Cumpri estágio no núcleo de saúde e
+                            tecnologia NUTES que pertence a UEPB
+                            com inovações de dispositivos e
+                            softwares para a área da Saúde,.
+
                         </p>
                         <h6 className="fw-bold mt-4">HABILIDADES E COMPETÊNCIAS</h6>
                         <ul className="mb-2" style={{ fontSize: '0.95rem', paddingLeft: '1.2rem' }}>
@@ -80,26 +94,61 @@ function PageOne() {
                             <div className=" p-3 rounded">
                                 <h6 className="fw-bold bg-warning bg-opacity-50 mb-2 py-2 px-3">SOBRE MIM</h6>
                                 <p style={{ fontSize: '0.97rem' }}>
-                                    Sou desenvolvedor de software com experiência em diversas linguagens de programação, como Java, Python e C, aplicando boas práticas, refatoração de código e princípios de arquitetura limpa. No Frontend, atuo no desenvolvimento de interfaces dinâmicas e responsivas utilizando Vue.js e React, criando componentes reutilizáveis, gerenciando estados com Vuex e Redux, e integrando APIs RESTful e GraphQL. Também trabalho com Node.js para construir aplicações full-stack, desenvolvendo APIs eficientes com Express.js e Socket.io para funcionalidades em tempo real.
+                                    Sou desenvolvedor de software com experiência em diversas
+                                    linguagens de programação, como Java, Python e C, aplicando
+                                    boas práticas, refatoração de código e princípios de arquitetura
+                                    limpa. No Frontend, atuo no desenvolvimento de interfaces
+                                    dinâmicas e responsivas utilizando Vue.js e React, criando
+                                    componentes reutilizáveis, gerenciando estados com Vuex e
+                                    Redux, e integrando APIs RESTful e GraphQL.Também trabalho
+                                    com Node.js para construir aplicações full-stack, desenvolvendo
+                                    APIs eficientes com Express.js e Socket.io para funcionalidades em
+                                    tempo real.
+
                                 </p>
                                 <p style={{ fontSize: '0.97rem' }}>
                                     No Backend, tenho experiência com PHP e MySQL, desenvolvendo sistemas robustos com arquitetura MVC, queries otimizadas e stored procedures. Utilizo Laravel e Symfony para construção de APIs seguras e escaláveis, além de trabalhar com bancos de dados relacionais para manipulação de grandes volumes de dados, incluindo migrações, backups e otimização de consultas.
                                 </p>
                                 <p style={{ fontSize: '0.97rem' }}>
-                                    Minha atuação em IoT e sistemas embarcados inclui o desenvolvimento de soluções com ESP32, ESP8266 e módulos GSM (SIM800L), integrando hardware e software por meio de bibliotecas como Firebase Arduino Client e Adafruit MQTT para comunicação em nuvem e monitoramento remoto. Além disso, possuo conhecimento em redes e protocolos de comunicação, como HL7, MQTT e HTTP, utilizando ferramentas como Wireshark e Netcat para análise de tráfego e troubleshooting.
+                                    No Backend, tenho experiência com PHP e MySQL, desenvolvendo
+                                    sistemas robustos com arquitetura MVC, queries otimizadas e
+                                    stored procedures. Utilizo Laravel e Symfony para construção de
+                                    APIs seguras e escaláveis, além de trabalhar com bancos de dados
+                                    relacionais para manipulação de grandes volumes de dados,
+                                    incluindo migrações, backups e otimização de consultas.
                                 </p>
                                 <p style={{ fontSize: '0.97rem' }}>
-                                    Sou adepto da modelagem de software com UML, aplicando diagramas de classe, sequência e casos de uso para melhorar a clareza e a manutenibilidade dos projetos. Minha abordagem combina raciocínio lógico, resolução de problemas complexos e proatividade, sempre buscando integrar novas tecnologias, como computação em nuvem e microsserviços, para criar soluções inovadoras.
+                                    Minha atuação em IoT e sistemas embarcados inclui o
+                                    desenvolvimento de soluções com ESP32, ESP8266 e módulos
+                                    GSM (SIM800L), integrando hardware e software por meio de
+                                    bibliotecas como Firebase Arduino Client e Adafruit MQTT para
+                                    comunicação em nuvem e monitoramento remoto. Além disso,
+                                    possuo conhecimento em redes e protocolos de comunicação,
+                                    como HL7, MQTT e HTTP, utilizando ferramentas como Wireshark e
+                                    Netcat para análise de tráfego e troubleshooting.
+
                                 </p>
                                 <p style={{ fontSize: '0.97rem' }}>
-                                    Estou constantemente me atualizando e buscando desafios que unam Frontend, Backend e sistemas embarcados, com foco em desempenho, segurança e experiência do usuário.
+                                    Sou adepto da modelagem de software com UML, aplicando
+                                    diagramas de classe, sequência e casos de uso para melhorar a
+                                    clareza e a manutenibilidade dos projetos. Minha abordagem
+                                    combina raciocínio lógico, resolução de problemas complexos e
+                                    proatividade, sempre buscando integrar novas tecnologias, como
+                                    computação em nuvem e microsserviços, para criar soluções
+                                    inovadoras.
+
+                                </p>
+                                <p style={{ fontSize: '0.97rem' }}>
+                                    Estou constantemente me atualizando e buscando desafios que
+                                    unam Frontend, Backend e sistemas embarcados, com foco em
+                                    desempenho, segurança e experiência do usuário.
                                 </p>
                             </div>
                         </Card.Body>
                     </Card>
                 </Col>
             </Row>
-        </Container>
+        </Container >
     );
 }
 
