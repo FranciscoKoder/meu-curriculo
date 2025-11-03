@@ -140,28 +140,30 @@ function PageOne() {
                                 <div className="fw-bold bg-warning bg-opacity-50 mb-2 py-2 px-3" style={{ width: "100%" }}>
                                     CERTIFICADOS
                                 </div>
-
                                 <div className="d-flex justify-content-center flex-wrap gap-5 mt-5">
                                     <a
-                                        href="${process.env.PUBLIC_URL}/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf"
-                                        download="Certificado_JAVA.pdf"
+                                        href={`${process.env.PUBLIC_URL}/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf`}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
                                         className="btn btn-warning text-dark"
                                     >
-                                        Baixar Certificado JAVA
+                                        Abrir Certificado JAVA
                                     </a>
                                     <a
-                                        href="${process.env.PUBLIC_URL}/img/Gerenciamento de Risco.pdf"
-                                        download="Gerenciamento_de_Risco.pdf"
+                                        href={`${process.env.PUBLIC_URL}/img/Gerenciamento de Risco.pdf`}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
                                         className="btn btn-warning"
                                     >
-                                        Baixar Certificado Gerenciamento de Risco
+                                        Abrir Certificado Gerenciamento de Risco
                                     </a>
                                     <a
-                                        href="${process.env.PUBLIC_URL}/img/BancodeDados.pdf"
-                                        download="Certificado_BD.pdf"
+                                        href={`${process.env.PUBLIC_URL}/img/BancodeDados.pdf`}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
                                         className="btn btn-warning"
                                     >
-                                        Baixar Certificado Banco de Dados
+                                        Abrir Certificado Banco de Dados
                                     </a>
                                 </div>
                             </div>
