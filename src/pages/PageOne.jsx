@@ -142,7 +142,7 @@ function PageOne() {
                                 </div>
                                 <div className="d-flex justify-content-center flex-wrap gap-5 mt-5">
                                     <a
-                                        href={`${process.env.PUBLIC_URL}/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf`}
+                                        href={`https://github.com/FranciscoKoder/meu-curriculo/blob/main/public/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-warning text-dark"
@@ -150,7 +150,7 @@ function PageOne() {
                                         Abrir Certificado JAVA
                                     </a>
                                     <a
-                                        href={`${process.env.PUBLIC_URL}/img/Gerenciamento de Risco.pdf`}
+                                        href={`https://github.com/FranciscoKoder/meu-curriculo/blob/main/public/img/Gerenciamento%20de%20Risco.pdf`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-warning"
@@ -158,7 +158,7 @@ function PageOne() {
                                         Abrir Certificado Gerenciamento de Risco
                                     </a>
                                     <a
-                                        href={`${process.env.PUBLIC_URL}/img/BancodeDados.pdf`}
+                                        href={`https://github.com/FranciscoKoder/meu-curriculo/blob/main/public/img/BancodeDados.pdf`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-warning"
