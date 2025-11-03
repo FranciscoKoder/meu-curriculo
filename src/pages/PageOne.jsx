@@ -143,21 +143,21 @@ function PageOne() {
 
                                 <div className="d-flex justify-content-center flex-wrap gap-5 mt-5">
                                     <a
-                                        href="public/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf"
+                                        href="${process.env.PUBLIC_URL}/img/UC-d7e84d52-06b9-4633-9c47-9f81f90dc109.pdf"
                                         download="Certificado_JAVA.pdf"
                                         className="btn btn-warning text-dark"
                                     >
                                         Baixar Certificado JAVA
                                     </a>
                                     <a
-                                        href="public/img/Gerenciamento de Risco.pdf"
+                                        href="${process.env.PUBLIC_URL}/img/Gerenciamento de Risco.pdf"
                                         download="Gerenciamento_de_Risco.pdf"
                                         className="btn btn-warning"
                                     >
                                         Baixar Certificado Gerenciamento de Risco
                                     </a>
                                     <a
-                                        href="public/img/BancodeDados.pdf"
+                                        href="${process.env.PUBLIC_URL}/img/BancodeDados.pdf"
                                         download="Certificado_BD.pdf"
                                         className="btn btn-warning"
                                     >
