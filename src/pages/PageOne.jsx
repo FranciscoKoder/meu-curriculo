@@ -67,7 +67,7 @@ function PageOne() {
                                     rel="noopener noreferrer"
                                     className="fw-bold text-white"
                                 >
-                                    GitHub
+                                    https://github.com/FranciscoKoder
                                 </a>
                             </div>
                             <div>
@@ -77,7 +77,7 @@ function PageOne() {
                                     rel="noopener noreferrer"
                                     className="fw-bold text-white"
                                 >
-                                    LinkedIn
+                                    https://www.linkedin.com/in/vitor-fariasprogram/"
                                 </a>
                             </div>
                         </div>
